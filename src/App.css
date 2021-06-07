@@ -53,6 +53,10 @@ button {
   z-index: 2000;
 }
 
+.main-content {
+  background-color: #282c34;
+}
+
 /* ================================= 
   Page Components
 ==================================== */
